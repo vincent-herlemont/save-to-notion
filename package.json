@@ -1,6 +1,6 @@
 {
   "name": "save-to-notion",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Save semantic web page data to notion.so.",
   "main": "index.js",
   "scripts": {
