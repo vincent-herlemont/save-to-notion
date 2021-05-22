@@ -1,0 +1,14 @@
+{
+  "name": "save-to-notion",
+  "version": "0.0.1",
+  "description": "Save semantic web page data to notion.so.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firefox"
+  ],
+  "author": "Vincent Herlemont",
+  "license": "ISC"
+}
